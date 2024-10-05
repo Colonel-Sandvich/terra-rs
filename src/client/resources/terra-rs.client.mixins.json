@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "me.colonel_sandvich.terra.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
